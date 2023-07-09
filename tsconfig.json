@@ -6,7 +6,7 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "outDir": "lib",
+    "outDir": "dist",
     // "lib": ["esnext"]
   },
   "exclude": ["node_modules", "**/*.test.ts"]
